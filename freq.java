@@ -1,4 +1,4 @@
-public class Freq {
+public class freq {
     static void frequency(int arr[]) {
         int n = arr.length;
         if (n == 0) {
